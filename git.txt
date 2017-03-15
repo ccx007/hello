@@ -1,0 +1,10 @@
+git status
+changes to be commited!
+changes but not updated!
+
+git diff
+git diff --cached
+git diff HEAD
+git mv git mv helloworld.txt helloworld2.txt
+
+//将helloworld.txt重命名为helloworld2.txt
