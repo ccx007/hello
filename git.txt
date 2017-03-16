@@ -10,3 +10,5 @@ git mv git mv helloworld.txt helloworld2.txt
 //将helloworld.txt重命名为helloworld2.txt
 
 DevOps原则所追求的愿景，就是“让业务所要求的那些变化能随时上线可用”；
+
+git commit -a 相当于运行 git add 把所有当前目录下的文件加入暂存区域再运行。git commit;
